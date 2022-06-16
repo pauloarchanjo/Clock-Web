@@ -4,7 +4,9 @@
 }
 
 body {
-    background: linear-gradient(to right, rgb(18, 80, 139), rgb(44, 18, 139));;
+    background: #1D2B64;
+    background: -webkit-linear-gradient(to right, #F8CDDA, #1D2B64);
+    background: linear-gradient(to right, #F8CDDA, #1D2B64);
     display: flex;
     justify-content: center;
     align-items: center;
