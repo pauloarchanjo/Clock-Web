@@ -1,4 +1,4 @@
-# Clock-Web
+# clock-web
 Relógio Analógico (em número romano) feito na Tríade Web (HTML, CSS e JavaScript).
 
 ![Screenshot](screenshot.png)
